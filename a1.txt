@@ -1,4 +1,1 @@
-hi
-hello
-extra
-
+cp /home/kohila/sample/test.txt /home/kohila/test
